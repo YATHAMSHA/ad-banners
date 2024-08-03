@@ -2,7 +2,8 @@
 const nextConfig = {
     basePath: '/ad-banner',
     assetPrefix: '/ad-banner/',
-    trailingSlash: true 
+    trailingSlash: true,
+    output: 'export'
   };
   
   export default nextConfig;
